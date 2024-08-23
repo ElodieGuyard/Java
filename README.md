@@ -1,4 +1,5 @@
-
+# Mon apprentissage de java
+On navigue ici entre toutes les commandes de bases de Java pour le rendre moins obscure à mes yeux et pouvoir envisager des projets sympa plus tard après avori acquis les bases
 
 <details>
   <summary><b>Guess a number</b></summary>
@@ -39,5 +40,5 @@
     <br>
     note : A ce stade, la range est modifiée à chaque input de l'utilisateur.
     <br>
-    Amélioration possible : si la range est 12<?<50 et que l'utilisateur propose 10 alors on alerte que cette proposition est out of range
+    <p>Amélioration possible : si la range est comprise entre 12 et 50 et que l'utilisateur propose 10 alors on alerte que cette proposition est out of range</p>
 </details>
