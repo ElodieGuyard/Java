@@ -55,3 +55,16 @@ On navigue ici entre toutes les commandes de bases de Java pour le rendre moins 
     <br>
     <p>Amélioration possible : si la range est comprise entre 12 et 50 et que l'utilisateur propose 10 alors on alerte que cette proposition est out of range</p>
 </details>
+
+<details>
+  <summary><b>LireUnFichierTxt.java</b></summary>
+  <h3>A quoi sert ce code ?</h3>
+  <ul>
+    <li>Dans un premier temps : importation des class nécessaires pour faire fonctionner le programme</li>
+    <li>Ligne 8 : Création d'un objet scanner dans lequel on renseigne le chemin du fichier qu'on veut "scanner"</li>
+    <li>Ligne 10 : Création d'une variable qui va stocker le contenu de la ligne 1 du fichier txt</li>
+    <li>Ligne 11 : Création d'une variable qui va stocker le contenu de la ligne 2 du fichier txt</li>
+    <li>Ligne 12 & 13 : Affichage dans la console du contenu des lignes 1 & 2 du fichier .txt</li>
+    <li>Bonus : gère l'exeption "Fichier introuvable" (à creuser pour pouvoir comprendre le fonctionnement)</li>
+  </ul>
+</details>
