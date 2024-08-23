@@ -2,7 +2,7 @@
 On navigue ici entre toutes les commandes de bases de Java pour le rendre moins obscure à mes yeux et pouvoir envisager des projets sympa plus tard après avori acquis les bases
 
 <details>
-  <summary><b>Guess a number</b></summary>
+  <summary><b>Guess a number.java</b></summary>
   <br>
   <h3>But de l'exercice :</h3>
   <br>
