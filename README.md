@@ -1,5 +1,18 @@
 # Mon apprentissage de java
-On navigue ici entre toutes les commandes de bases de Java pour le rendre moins obscure à mes yeux et pouvoir envisager des projets sympa plus tard après avori acquis les bases
+On navigue ici entre toutes les commandes de bases de Java pour le rendre moins obscure à mes yeux et pouvoir envisager des projets sympa plus tard après avori acquis les bases.
+
+<details>
+  <summary><b>CleanHello.java</b></summary>
+  <h3>But de l'exercice :</h3>
+    <br>
+    <ul>
+      <li>J'ai appris que la méthode qui englobe tout le programme doit porter le même nom que le fichier.</li>
+      <li>Une appelera une fonction : méthode.</li>
+      <li>Déclaration et appel de méthodes avec arguments.</li>
+      <li>La méthode helloBeyonce ne prends pas de paramètres et affiche simplement "Bonjour !Beyonce". (concaténation de deux variables strings)</li>
+      <li>La méthode sayHelloTo prends deux paramètres, une chaine de caractère (où on y renseigne son prénom, et un interger (où on renseigne l'heure qu'il est) qui nous retournera dans la console Bonjour ou bonsoir en fonction de l'heure qu'il est. Ces paramètres sont à donner directement dans le programme dans la méthode CleanHello à l'appel de la méthode sayHello ligne 4.</li>
+  </ul>
+</details>
 
 <details>
   <summary><b>Guess a number.java</b></summary>
